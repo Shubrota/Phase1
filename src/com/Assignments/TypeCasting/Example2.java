@@ -1,4 +1,4 @@
-package com.Assignments.Calculator;
+package com.Assignments.TypeCasting;
 
 public class Example2 {
 
