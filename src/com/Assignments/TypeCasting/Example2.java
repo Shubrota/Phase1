@@ -1,4 +1,4 @@
-package com.simplilearn.typecasting;
+package com.Assignments.TypeCasting;
 
 public class Example2 {
 
